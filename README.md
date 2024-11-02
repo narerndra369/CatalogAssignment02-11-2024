@@ -1,8 +1,4 @@
 
-# Shamir's Secret Sharing Implementation
-
-This project implements Shamir's Secret Sharing algorithm using JavaScript. The program reads input data from a JSON file and calculates secrets based on provided keys.
-
 ## Project Structure
 
 - `catalog.js` - The main script containing the implementation of Shamir's Secret Sharing.
@@ -25,7 +21,7 @@ This project implements Shamir's Secret Sharing algorithm using JavaScript. The 
    ```bash
    cd CatalogAssignment02-11-2024
    ```
-
+2. **Note: nodejs installed in your system**
 3. **Run the Program**
 
    Execute the program using Node.js:
