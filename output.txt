@@ -1,0 +1,34 @@
+Processing Test Case: testCase1
+Number of roots provided (n): 4
+Minimum roots required (k): 3
+Processing data for key 1: Base=10, Value=4
+Value in decimal for key 1: 4
+Processing data for key 2: Base=2, Value=111
+Value in decimal for key 2: 7
+Processing data for key 3: Base=10, Value=12
+Value in decimal for key 3: 12
+Missing data entry for key 4.
+
+Processing Test Case: testCase2
+Number of roots provided (n): 10
+Minimum roots required (k): 7
+Processing data for key 1: Base=6, Value=13444211440455345511
+Value in decimal for key 1: 995085094601491
+Processing data for key 2: Base=15, Value=aed7015a346d63
+Value in decimal for key 2: 21394886326566392
+Processing data for key 3: Base=15, Value=6aeeb69631c227c
+Value in decimal for key 3: 196563650089608576
+Processing data for key 4: Base=16, Value=e1b5e05623d881f
+Value in decimal for key 4: 1016509518118225920
+Processing data for key 5: Base=8, Value=316034514573652620673
+Value in decimal for key 5: 3711974121218449920
+Processing data for key 6: Base=3, Value=2122212201122002221120200210011020220200
+Value in decimal for key 6: 10788619898233491456
+Processing data for key 7: Base=3, Value=20120221122211000100210021102001201112121
+Value in decimal for key 7: 26709394976508342272
+Processing data for key 8: Base=6, Value=20220554335330240002224253
+Value in decimal for key 8: 58725075613853302784
+Processing data for key 9: Base=12, Value=45153788322a1255483
+Value in decimal for key 9: 117852986202006519808
+Processing data for key 10: Base=7, Value=1101613130313526312514143
+Value in decimal for key 10: 220003896831595315200
